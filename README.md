@@ -18,6 +18,15 @@ This image is a time-limited trial build. The expiry date is baked into the bina
 
 For production licensing, contact [indentia.ai](https://indentia.ai).
 
+## Build
+
+The trial image is built automatically by the private GitLab CI pipeline and pushed to:
+
+```
+ghcr.io/indentiaplatform/indentiadb-trial:latest
+ghcr.io/indentiaplatform/indentiadb-trial:<version>
+```
+
 ## Documentation
 
 Full documentation at **[dbdocs.indentia.ai](https://dbdocs.indentia.ai)**.
