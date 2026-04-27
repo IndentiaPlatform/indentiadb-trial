@@ -34,3 +34,7 @@ Full documentation at **[dbdocs.indentia.ai](https://dbdocs.indentia.ai)**.
 ## License
 
 Copyright 2024-2026 Indentia B.V. — Trial use only.
+
+## Ownership and licence status
+
+This repository is controlled by Indentia B.V. for trial or evaluation use. See `NOTICE`, `OWNERSHIP.md`, and `CONTRIBUTING.md`.
